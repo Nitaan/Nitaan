@@ -1,17 +1,18 @@
 <h1 align="center">🌷 Welcome to my digital garden — I'm Nita! 👋</h1>
 
 <p align="center">
-  💻 Informatics Engineering Student | 📱 Mobile & Web Developer | 🤖 AI Enthusiast <br>
+  💻 Final-year Informatics Engineering Student | 📱 Mobile & Web Developer | 🤖 Data Enthusiast | 💐 Florist on weekends <br>
   Passionate about building useful things with code.
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Informatics Engineering student at STT Wastukancana
+- 🎓 Final-year Informatics Engineering student at STT Wastukancana (GPA: 3.88)
 - 🌐 I love building web systems with **Laravel**, **MySQL**, and **REST APIs**
 - 📱 Android developer (Kotlin) — exploring health tech
 - 🤖 Passionate about AI & Machine Learning, especially for health & education
+- 💐 I find peace in arranging flowers — I’m also a self-taught florist!
 - ✍️ Also writing articles & SEO content for fun!
 
 ---
@@ -31,9 +32,15 @@
 
 ---
 
+### 🧩 Projects I'm Proud Of
+- 🩺 **HeartGuard** – Machine learning model to detect heart disease  
+- 👶 **FetalHealth Predictor** – ML model for fetal health classification from CTG data, deployed with Streamlit  
+- 🍚 **I-BUMP** – Mobile app for pregnancy monitoring, built with Kotlin and Laravel API  
+- 🌱 **Sistem Monitoring PAUD** – Laravel-based app to track early childhood development  
 
+---
 ### 🌱 Currently Learning
-- Health Connect for Android
+- Health Connect integration in Android
 - Floristry techniques & bouquet composition (yes, seriously! 🌸)
 - TOEFL Prep & Academic Writing
 
