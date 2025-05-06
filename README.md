@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nita Andriani 👋</h1>
+<h1 align="center">🌷 Welcome to my digital garden — I'm Nita! 👋</h1>
 
 <p align="center">
   💻 Informatics Engineering Student | 📱 Mobile & Web Developer | 🤖 AI Enthusiast <br>
