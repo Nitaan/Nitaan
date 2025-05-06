@@ -13,7 +13,6 @@
 - 📱 Android developer (Kotlin) — exploring health tech
 - 🤖 Passionate about AI & Machine Learning, especially for health & education
 - 💐 I find peace in arranging flowers — I’m also a self-taught florist!
-- ✍️ Also writing articles & SEO content for fun!
 
 ---
 
