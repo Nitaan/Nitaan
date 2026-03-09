@@ -1,19 +1,17 @@
-<h1 align="center">🌷 Welcome to my digital garden — I'm Nita! 👋</h1>
+<h1 align="center">Hi, I'm Nita 👋</h1>
 
 <p align="center">
-📱 Mobile & Web Developer | 🤖 Data Enthusiast | 💐 Florist on weekends <br>
-  Passionate about building useful things with code.
+Informatics Engineering Graduate • Web & Mobile Developer
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Informatics Engineering graduate at STT Wastukancana (GPA: 3.89)
+- 🎓 Informatics Engineering graduate at STT Wastukancana (GPA: 3.89)
 - 🌐 I love building web systems with **Laravel**, **MySQL**, and **REST APIs**
 - 📱 Android developer (Kotlin) — exploring health tech
 - 🤖 Passionate about AI & Machine Learning, especially for health & education
-- 💐 I find peace in arranging flowers — I’m also a self-taught florist!
-
+- 🌸 I enjoy floristry as a creative hobby
 ---
 
 ### 🔧 Tech Stack
@@ -41,7 +39,6 @@
 ### 🌱 Currently Learning
 - Health Connect integration in Android
 - Improving backend architecture & API design
-- Floristry techniques & bouquet composition (yes, seriously! 🌸)
 
 ---
 
