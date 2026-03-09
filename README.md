@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year Informatics Engineering student at STT Wastukancana (GPA: 3.88)
+- 🎓 Final-year Informatics Engineering graduate at STT Wastukancana (GPA: 3.89)
 - 🌐 I love building web systems with **Laravel**, **MySQL**, and **REST APIs**
 - 📱 Android developer (Kotlin) — exploring health tech
 - 🤖 Passionate about AI & Machine Learning, especially for health & education
