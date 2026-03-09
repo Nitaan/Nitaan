@@ -1,7 +1,7 @@
 <h1 align="center">🌷 Welcome to my digital garden — I'm Nita! 👋</h1>
 
 <p align="center">
-  💻 Final-year Informatics Engineering Student | 📱 Mobile & Web Developer | 🤖 Data Enthusiast | 💐 Florist on weekends <br>
+📱 Mobile & Web Developer | 🤖 Data Enthusiast | 💐 Florist on weekends <br>
   Passionate about building useful things with code.
 </p>
 
@@ -40,8 +40,8 @@
 ---
 ### 🌱 Currently Learning
 - Health Connect integration in Android
+- Improving backend architecture & API design
 - Floristry techniques & bouquet composition (yes, seriously! 🌸)
-- TOEFL Prep & Academic Writing
 
 ---
 
